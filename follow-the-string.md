@@ -6,5 +6,5 @@ What will you do?
 ### Follow the string
 
 You follow the string to a dense bush, cautiously unveiling secrets in the quiet night. <br>
-There, a faint figure emerges—an old man holding the string. <br>
+There, a faint figure emerges—an old lady holding the string. <br>
 Spotting you, he signals to be quiet and whispers, "My dog escaped. I'm luring him back with his favorite food."
